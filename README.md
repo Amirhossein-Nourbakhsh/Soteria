@@ -24,7 +24,7 @@ Mission Statement
   <p align="center">
     Welcome to Soteria - See Through the Storm
     <br />
-    <a href="www.Soteria.hub.arcgis.com"><strong>Visit Our Website »</strong></a>
+    <a href="https://experience.arcgis.com/experience/c2b57873ff3e422bb818643c10997ee6/page/Home/?draft=true&views=Role-of-Emergency-Services"><strong>Visit Our Website »</strong></a>
     <br />
     <br />
     <a href="https://yorku.maps.arcgis.com/apps/webappviewer/index.html?id=9c4dc979604349bbba245f2864437a32">View Demo</a>
