@@ -106,6 +106,8 @@ ArcGIS Account
 ### App Description
 Soteria is the app you will need for major emergencies. It’s designed to work with the official authorities to keep its users safe and informed all the time during and after a major emergency. Keep track of your loved ones, see the posts on social media around you, get view access to the cameras of the city, get information from other users and help others by reporting important events and misinformation, see the products and services available around you and get safe to the places you want to go. Soteria, see through the storm.
 
+The application name Soteria comes from the name of the Greek Goddess of safety and salvation, deliverance, and preservation from harm.
+
 ### Icons
 ##### Fire Stations
 It shows the location of the fire stations of the city. It contains the following fields: ID, address and community that is served by the station.
