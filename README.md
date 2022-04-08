@@ -80,6 +80,12 @@ The current war in Ukraine is an example of why creating this application is so 
 
 ### Built With
 
+* [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
+* [ArcGIS Online](https://www.esri.com/en-us/arcgis/products/arcgis-online/overview)
+* [Webapp Builder](https://www.esri.com/en-us/arcgis/products/arcgis-web-appbuilder/overview)
+* [Workforce](https://www.arcgis.com/apps/workforce/projects)
+* [Survey 123](https://survey123.arcgis.com/)
+* [Experience](https://www.esri.com/en-us/arcgis/products/arcgis-web-appbuilder/overview)
 * [Node.js](https://nodejs.org/en/)
 * [Python](https://www.python.org/)
 * [Javascript](https://www.javascript.com/)
@@ -99,6 +105,46 @@ ArcGIS Account
 
 ### App Description
 Soteria is the app you will need for major emergencies. It’s designed to work with the official authorities to keep its users safe and informed all the time during and after a major emergency. Keep track of your loved ones, see the posts on social media around you, get view access to the cameras of the city, get information from other users and help others by reporting important events and misinformation, see the products and services available around you and get safe to the places you want to go. Soteria, see through the storm.
+
+### Icons
+##### Fire Stations
+It shows the location of the fire stations of the city. It contains the following fields: ID, address and community that is served by the station.
+
+##### Police Stations
+It shows the location of the police stations of the city. It contains the following fields: ID, name of the station, department that belongs to and postal code. 
+
+##### Hospitals
+It shows the hospitals available for emergencies. It contains the following fields: ID, name of the hospital, address, community that is served by it and postal code.
+Cameras
+It shows the street view cameras available in the city. It contains the following fields: ID, name and the link to the Windy Webcams website of the selected camera.
+
+##### Subway Stations
+It shows the subway stations of the city. These stations can be used as bunkers and that’s why they’re used as part of the information shown in the app. It contains the following fields: ID and name of the station.
+
+##### Meeting Points
+Meeting points or emergency assembly points are designated points for events of emergency requiring building evacuation. It contains the following fields: ID and name.
+
+##### Tweets
+It uses the Twitter API for showing geotagged Tweets in the city. It contains the following fields: Date, ID, Tweet and link to the original Tweet.
+
+##### Supermarkets
+It shows the supermarkets and grocery stores in the city. It contains the following fields: ID, name, website and phone number.
+
+##### Pharmacies
+It shows the pharmacies available in the city. It contains the following fields: ID, name, phone number and website.
+
+##### Gas Stations
+It shows the gas stations available in the city. It contains the following fields: ID, name, website and phone number.
+
+##### Threats
+This layer uses the “Threat Analysis widget” by ArcGIS. It shows the threats created by the users to alert others of threat zones. It contains the following fields: ID, zone type and threat type.
+
+##### Neighbourhoods
+It shows the neighbourhoods of the emergency area stablished by the authorities. It does not show a pop-up with the information.
+
+##### World Traffic Service
+This layer is connected to the World Traffic Service map by ArcGIS. It shows the location of accidents, construction, closures and other issues that could potentially impact the flow of traffic.
+
 
 ### Features
 
