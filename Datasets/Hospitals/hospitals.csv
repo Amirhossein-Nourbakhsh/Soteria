@@ -1,0 +1,32 @@
+﻿X,Y,FID,OGF_ID,MOH_PRO_ID,SERV_TYPE,SERV_DET,EN_NAME,FR_NAME,EN_ALT,FR_ALT,ADDRESS_1,ADDRESS_2,ADDR_DESCR,COMMUNITY,POSTALCODE,GEO_UPT_DT,EFF_DATE
+-79.43236041,43.730336,1013,137285591,10000000166,Hospital - Corporation,Site,Baycrest Hospital - North York, ,Baycrest Hospital, ,3560 Bathurst Street, , ,Toronto,M6A2E1,2.02E+13,2.02E+13
+-79.33403698,43.80425551,1014,137285592,10000000168,Hospital - Corporation,Site,Bellwood Health Services, ,Bellwood Health Services, ,1020 McNicoll Avenue, , ,Toronto,M1W2J6,2.02E+13,2.02E+13
+-79.37786158,43.66868299,1029,137285607,10000000142,Hospital - Corporation,Site,Casey House Hospice, ,Casey House Hospice, ,9 Huntley Street, , ,Toronto,M4Y1P2,2.02E+13,2.02E+13
+-79.39895869,43.65822299,1030,137285608,10000000208,Hospital - Site,Site,Centre For Addiction and Mental Health - College Street Site, ,Centre For Addiction and Mental Health, ,250 College Street, , ,Toronto,M5T1R8,2.02E+13,2.02E+13
+-79.41814739,43.64430178,1031,137285609,10000000143,Hospital - Corporation,Site,Centre For Addiction and Mental Health - Queen Street Site, ,Centre For Addiction and Mental Health, ,1001 Queen Street West, , ,Toronto,M6J1H4,2.02E+13,2.02E+13
+-79.37268979,43.7178566,1076,137285653,10000000212,Hospital - Corporation,Site,Holland Bloorview Kids Rehabilitation Hospital, ,Holland Bloorview Kids Rehabilitation Hospital, ,150 Kilgour Road, , ,Toronto,M4G1R8,2.02E+13,2.02E+13
+-79.49041472,43.72478519,1084,137285661,10000000083,Hospital - Site,Site,Humber River Hospital - Wilson, ,Humber River Hospital, ,1235 Wilson Avenue, , ,Toronto,M3M0B2,2.02E+13,2.02E+13
+-79.52661744,43.7552924,1085,137285662,10000000084,Hospital - Site,Site,Humber River Hospital -York Finch, ,Humber River Hospital, ,2111 Finch Avenue West, , ,Toronto,M3N1N1,2.02E+13,2.02E+13
+-79.40331909,43.65733639,1092,137285669,10000000087,Hospital - Corporation,Site,Kensington Eye Institute, ,Kensington Eye Institute, ,340 College Street, , ,Toronto,M5T3A9,2.02E+13,2.02E+13
+-79.32612147,43.68960349,1114,137285691,10000000135,Hospital - Corporation,Site,Michael Garron Hospital, ,Michael Garron Hospital - Toronto East Health Network, ,825 Coxwell Avenue, , ,Toronto,M4C3E7,2.02E+13,2.02E+13
+-79.36424239,43.76951791,1134,137285711,10000000193,Hospital - Corporation,Site,North York General Hospital - General Site, ,North York General Hospital, ,4001 Leslie Street, , ,Toronto,M2K1E1,2.02E+13,2.02E+13
+-79.48144122,43.66411358,1157,137285734,10000000013,Hospital - Corporation,Site,Runnymede Healthcare Centre, ,Runnymede Healthcare Centre, ,625 Runnymede Road, , ,Toronto,M6S3A3,2.02E+13,2.02E+13
+-79.38320509,43.67033459,1158,137285735,10000000014,Hospital - Corporation,Site,Salvation Army Toronto Grace Health Centre, ,Salvation Army Toronto Grace Health Centre, ,650 Church Street, , ,Toronto,M5Y2G5,2.02E+13,2.02E+13
+-79.35550928,43.66596059,1166,137285743,9999999993,Hospital - Site,Site,Sinai Health System - Bridgepoint, ,Sinai Health System, ,14 St. Mathews Road, , ,Toronto,M4M2B5,2.02E+13,2.02E+13
+-79.38972699,43.65770559,1167,137285744,9999999994,Hospital - Corporation,Site,Sinai Health System - Mount Sinai, ,Sinai Health System, ,600 University Avenue, , ,Toronto,M5G1X5,2.02E+13,2.02E+13
+-79.37896709,43.7214868,1192,137285769,10000000123,Hospital - Corporation,Site,Sunnybrook Health Sciences Centre - Bayview Campus, ,Sunnybrook Health Sciences Centre, ,2075 Bayview Avenue, , ,Toronto,M4N3M5,2.02E+13,2.02E+13
+-79.38242889,43.66534149,1193,137285770,10000000124,Hospital - Site,Site,Sunnybrook Health Sciences Centre - Holland Orthopaedic & Arthritic Centre, ,Sunnybrook Health Sciences Centre, ,43 Wellesley Street East, , ,Toronto,M4Y1H1,2.02E+13,2.02E+13
+-79.4047582,43.78975161,1194,137285771,10000000218,Hospital - Site,Site,Sunnybrook Health Sciences Centre - St. John's Rehab, ,Sunnybrook Health Sciences Centre, ,285 Cummer Avenue, , ,Toronto,M2M2G1,2.02E+13,2.02E+13
+-79.38885459,43.65656889,1196,137285773,10000000127,Hospital - Corporation,Site,The Hospital For Sick Children, ,The Hospital For Sick Children, ,555 University Avenue, , ,Toronto,M5G1X8,2.02E+13,2.02E+13
+-79.56136044,43.60968137,1206,137285783,10000000217,Hospital - Site,Site,Trillium Health Partners- Queensway, ,Trillium Health Partners, ,150 Sherway Drive, , ,Toronto,M9C1A5,2.02E+13,2.02E+13
+-79.28365376,43.7115277,1207,137285784,10000000202,Hospital - Corporation,Site,Unity Health Toronto - Providence, ,Unity Health Toronto, ,3276 St. Clair Avenue East, , ,Toronto,M1L1W1,2.02E+13,2.02E+13
+-79.4501185,43.63919578,1208,137285785,10000000064,Hospital - Corporation,Site,Unity Health Toronto - St. Joseph's, ,Unity Health Toronto, ,30 The Queensway, , ,Toronto,M6R1B5,2.02E+13,2.02E+13
+-79.37730728,43.65372609,1209,137285786,10000000072,Hospital - Corporation,Site,Unity Health Toronto - St. Michael's, ,Unity Health Toronto, ,30 Bond Street, , ,Toronto,M5B1W8,2.02E+13,2.02E+13
+-79.4323283,43.63514728,1210,137285787,10000000108,Hospital - Site,Site,University Health Network - Bickle Centre, ,University Health Network, ,130 Dunn Avenue, , ,Toronto,M6K2R7,2.02E+13,2.02E+13
+-79.38935669,43.65680509,1211,137285788,10000000109,Hospital - Site,Site,University Health Network -  University Centre, ,University Health Network, ,550 University Avenue, , ,Toronto,M5G2A2,2.02E+13,2.02E+13
+-79.36934819,43.7183272,1212,137285789,10000000110,Hospital - Site,Site,University Health Network - Lyndhurst, ,University Health Network, ,520 Sutherland Drive, , ,Toronto,M4G3V9,2.02E+13,2.02E+13
+-79.38994659,43.65822539,1213,137285790,10000000111,Hospital - Site,Site,University Health Network - Princess Margaret, ,University Health Network, ,610 University Avenue, , ,Toronto,M5G2M9,2.02E+13,2.02E+13
+-79.38706779,43.65958679,1214,137285791,10000000112,Hospital - Corporation,Site,University Health Network - Toronto General, ,University Health Network, ,200 Elizabeth Street, , ,Toronto,M5G2C4,2.02E+13,2.02E+13
+-79.40641059,43.65336208,1215,137285792,10000000113,Hospital - Site,Site,University Health Network - Toronto Western, ,University Health Network, ,399 Bathrust Street, , ,Toronto,M5T2S8,2.02E+13,2.02E+13
+-79.50799053,43.68883579,1224,137285801,10000000121,Hospital - Corporation,Site,West Park  Healthcare Centre, ,West Park  Healthcare Centre, ,82 Buttonwood Avenue, , ,Toronto,M6M2J5,2.02E+13,2.02E+13
+-79.38725029,43.66133579,1234,137285811,10000000050,Hospital - Corporation,Site,Women's College Hospital, ,Women's College Hospital, ,76 Grenville Street, , ,Toronto,M5S1B2,2.02E+13,2.02E+13
